@@ -1,8 +1,4 @@
-Priti
-
-
-
-Studing Git and GitHub
+               #Studing Git and GitHub
  
 Hello my name is Priti Pal. I am studing git and github.
          Git is created by Linus Torvald.git is a distributed version control software. It is actual application and actual projects are manage through git. 
